@@ -13,7 +13,6 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
-# User configuration.
 # Commands.
 alias do-git-thing="git fetch --all && git pull"
 alias edit-aws='cd ~/.aws; vim'
